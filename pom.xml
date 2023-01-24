@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>vn.slf</groupId>
-    <artifactId>template-cloud-function</artifactId>
+    <artifactId>fun-common-queue-invoke-flow</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>template-cloud-function</name>
-    <description>Template Function</description>
+    <name>fun-common-queue-invoke-flow</name>
+    <description>Common Queue Invoke Flow Function</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
